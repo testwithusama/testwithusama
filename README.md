@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @testwithusama<br>👀 I’m interested in Test Automation.<br>🌱 I’m currently learning Unit & Integration Testing with Jest Framework in Node.js.<br>💞️ I’m looking to collaborate on Test Automation related projects.<br>📫 You can contact me through email and that is usamanjc@gmail.com.
+👋 Hi, I’m @testwithusama<br>👀 I’m interested in Test Automation.<br>🌱 I’m currently Test Automation in Cypress.<br>💞️ I’m looking to collaborate on Test Automation related projects.<br>📫 You can contact me through email and that is usamanjc@gmail.com.
 
 
 ## 🌐 Socials:
